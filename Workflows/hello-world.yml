@@ -1,5 +1,5 @@
 # This workflow compile and push a docker image for release purposes
-name: Java CI and release docker
+name: Java CI and release docker test
 on: [push, pull_request]
 jobs:
   build:
